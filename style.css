@@ -1,0 +1,218 @@
+@font-face {
+			font-family: BuyanBold;
+			src: url(BuyanBold.ttf);
+		}
+
+	.background {
+		height: 5500px;
+		background-color: #171717;
+		font-family: BuyanBold;
+		top: 0px;
+		left: 0px;
+	}
+
+	.maintitle {
+		height: 700px;
+		background: url(2.gif);
+		background-size:cover;
+	}
+
+	.maintext {
+		text-align: center;
+		color: white;
+		padding-top: 250px;
+		font-size: 900%;
+	}
+
+	.titleblock {
+		height: 75px;
+		background-color:white;
+		margin-top: 50px;
+	}
+
+	.titletext{
+		color: #171717;
+		text-align: center;
+		font-size: 400%;
+	}
+
+	.genres {
+		height: 700px;
+		background: url(1.gif);
+		background-size:cover;
+		display: flex;
+	}
+
+	.genreblock{
+		height: 550px;
+		width: 500px;
+		background-color: #171717;
+		margin-top: 75px;
+		margin-left: 140px;
+	}
+
+	.phonktext{
+		color: white;
+		text-align: center;
+		font-size: 300%;
+	}
+
+	.phonkdesc{
+		height: 550px;
+		width: 700px;
+		background-color: none;
+		margin-top: 75px;
+		margin-left: 50px;	
+	}
+
+	.phonktext1{
+		color: white;
+		text-align: left;
+		font-size: 220%;
+		margin-left: 10px;
+		text-shadow: 0px 0px 5px white;
+	}
+
+	.phonktextava{
+		color: white;
+		text-align: center;
+		font-size: 500%;
+		margin-top: 175px;
+	}
+
+	.lxst{
+		height: 1550px;
+		background-image:url(7.gif);
+		background-size: cover;
+	}
+
+	.triple{
+		height: 500px;
+		background-color: none;
+		display: flex;
+		margin-top: 20px;
+
+	}
+
+	.tripleside{
+		height: 415px;
+		width: 640px;
+		background-color: none;
+		margin-left: 85px;
+		margin-top: 50px;
+	}
+
+	.triplelxst{
+		background-image:url(lxst.jpg);
+		background-size: cover;
+		height: 415px;
+		width: 415px;
+		background-color: white;
+		margin-left: 120px;
+		margin-top: 50px;
+	}
+
+	.tripledvrst{
+		background-image:url(dvrst.jpg);
+		background-size: cover;
+		height: 415px;
+		width: 415px;
+		background-color: white;
+		margin-left: 120px;
+		margin-top: 50px;
+	}
+
+	.triplemane{
+		background-image:url(mane.jpg);
+		background-size: cover;
+		height: 415px;
+		width: 415px;
+		background-color: white;
+		margin-left: 120px;
+		margin-top: 50px;
+	}
+
+	.track{
+		height: 415px;
+		width: 415px;
+		background-color: white;
+		margin-left: 80px;
+		margin-top: 50px;
+	}
+	.triple1{
+		height: 500px;
+		background-color: none;
+		display: flex;
+		margin-top: 20px;
+		background-image:url(8.gif);
+		background-size: cover;
+	}
+
+	.m1{
+		height: 100%;
+		width: 100%;
+		
+	}
+
+	.tripleс{
+		
+		height: 415px;
+		width: 415px;
+		background-color: none;
+		margin-left: 40px;
+		margin-top: 50px;
+	}
+	
+	.triplecy{
+		height: 500px;
+		background-color: none;
+		display: flex;
+		margin-top: 20px;
+		margin-left: 300px;
+	}
+
+	.lxstc{
+		height: 2650px;
+		background-image:url(5.gif);
+		background-size: cover;
+	}
+
+	.phonktextglow{
+		color:#d61a9e;
+		text-shadow: 0px 0px 20px #d61a9e;
+		text-align: center;
+		font-size: 500%;
+		margin-top: 175px;
+	}
+	
+	.phonktextglow1{
+		color:#d40d0d;
+		text-shadow: 0px 0px 10px #d40d0d;
+		text-align: center;
+		font-size: 500%;
+		margin-top: 175px;
+	}
+	
+	.phonktextglow2{
+		color:#0dd47d;
+		text-shadow: 0px 0px 10px #0dd47d;
+		text-align: center;
+		font-size: 500%;
+		margin-top: 175px;
+	}
+
+	.phonktextglow3{
+		color:#d46d0d;
+		text-shadow: 0px 0px 10px#d46d0d;
+		text-align: center;
+		font-size: 500%;
+		margin-top: 175px;
+	}
+
+	.phonktextglow4{
+		color:#d4c00d;
+		text-shadow: 0px 0px 10px #d4c00d;
+		text-align: center;
+		font-size: 500%;
+		margin-top: 175px;
+	}
